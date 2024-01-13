@@ -1,0 +1,57 @@
+
+[
+    {
+      "name": "iPhone SE (2nd generation)",
+      "price": "Starting around $399",
+      "information": "Released in 2020, the iPhone SE combines the design of the iPhone 8 with the powerful A13 Bionic chip.",
+      "image_url": "img/iPhone SE (2nd generation).jpg"
+    },
+    {
+      "name": "iPhone 11",
+      "price": "Starting around $699",
+      "information": "Introduced in 2019, the iPhone 11 features a dual-camera system, A13 Bionic chip, and a Liquid Retina display.",
+      "image_url": "../img/iPhone 11"
+    },
+    {
+      "name": "iPhone 12 mini",
+      "price": "Starting around $699",
+      "information": "Released in 2020, the iPhone 12 mini is a smaller version of the iPhone 12 with a 5.4-inch Super Retina XDR display.",
+      "image_url": "../img/iPhone 12 mini.jpg"
+    },
+    {
+      "name": "iPhone 12",
+      "price": "Starting around $799",
+      "information": "Released in 2020, the iPhone 12 features 5G connectivity, a Ceramic Shield front cover, and the A14 Bionic chip.",
+      "image_url": "../img/iPhone 12.jpg"
+    },
+    {
+      "name": "iPhone 12 Pro",
+      "price": "Starting around $999",
+      "information": "Positioned as a more advanced model in the iPhone 12 series, the iPhone 12 Pro includes a triple-camera system with LiDAR technology and a stainless steel frame.",
+      "image_url": "../img/iPhone 12 Pro.jpg"
+    },
+    {
+      "name": "iPhone 12 Pro Max",
+      "price": "Starting around $1,099",
+      "information": "The largest model in the iPhone 12 series, the Pro Max offers a 6.7-inch Super Retina XDR display and the same advanced camera features as the iPhone 12 Pro.",
+      "image_url": "../img/iPhone 12 Pro Max.jpg"
+    },
+    {
+      "name": "iPhone 13 mini",
+      "price": "Starting around $699",
+      "information": "Released in 2021, the iPhone 13 mini features a smaller form factor with a 5.4-inch Super Retina XDR display and the A15 Bionic chip.",
+      "image_url": "../img/iPhone 13 mini.jpg"
+    },
+    {
+      "name": "iPhone 13",
+      "price": "Starting around $799",
+      "information": "Also released in 2021, the iPhone 13 includes improvements in battery life, camera capabilities, and the A15 Bionic chip.",
+      "image_url": "../img/iPhone 13.jpg"
+    },
+    {
+      "name": "iPhone 13 Pro Max",
+      "price": "Starting around $1,099",
+      "information": "The top-of-the-line model in the iPhone 13 series, the Pro Max features a ProMotion display with a 120Hz refresh rate, advanced camera systems, and the A15 Bionic chip.",
+      "image_url": "../img/iPhone 13 Pro Max.jpg"
+    }
+]

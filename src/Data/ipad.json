@@ -1,0 +1,57 @@
+[
+      {
+        "name": "iPad (9th generation)",
+        "price": "Starting around $329",
+        "information": "The 9th generation iPad, released in 2021, features the A13 Bionic chip, a 10.2-inch Retina display, and supports the first-generation Apple Pencil.",
+        "image_url": "../img/iPad (9th generation).jpg"
+      },
+      {
+        "name": "iPad mini (6th generation)",
+        "price": "Starting around $499",
+        "information": "Released in 2021, the 6th generation iPad mini features a compact design, A15 Bionic chip, and support for the second-generation Apple Pencil.",
+        "image_url": "../img/iPad mini (6th generation)"
+      },
+      {
+        "name": "iPad Air (4th generation)",
+        "price": "Starting around $499",
+        "information": "The 4th generation iPad Air, released in 2020, features the A14 Bionic chip, a 10.9-inch Liquid Retina display, and supports the second-generation Apple Pencil.",
+        "image_url": "../img/iPad Air (4th generation)"
+      },
+      {
+        "name": "iPad (8th generation)",
+        "price": "Starting around $329",
+        "information": "Released in 2020, the 8th generation iPad features the A12 Bionic chip, a 10.2-inch Retina display, and supports the first-generation Apple Pencil.",
+        "image_url": "../img/iPad (8th generation)"
+      },
+      {
+        "name": "iPad Pro 12.9-inch (5th generation)",
+        "price": "Starting around $1,099",
+        "information": "The 5th generation iPad Pro with a 12.9-inch Liquid Retina XDR display, released in 2021, features the M1 chip, 5G connectivity, and supports the Apple Pencil (2nd generation).",
+        "image_url": "../img/iPad Pro 12.9-inch (5th generation)"
+      },
+      {
+        "name": "iPad Pro 11-inch (3rd generation)",
+        "price": "Starting around $799",
+        "information": "Released in 2021, the 3rd generation iPad Pro with an 11-inch Liquid Retina display features the M1 chip, 5G connectivity, and supports the Apple Pencil (2nd generation).",
+        "image_url": "../img/iPad Pro 11-inch (3rd generation)"
+      },
+      {
+        "name": "iPad Air (3rd generation)",
+        "price": "Starting around $499",
+        "information": "Released in 2019, the 3rd generation iPad Air features the A12 Bionic chip, a 10.5-inch Retina display, and supports the first-generation Apple Pencil.",
+        "image_url": "../img/iPad Air (3rd generation)"
+      },
+      {
+        "name": "iPad mini (5th generation)",
+        "price": "Starting around $399",
+        "information": "Released in 2019, the 5th generation iPad mini features the A12 Bionic chip, a 7.9-inch Retina display, and supports the first-generation Apple Pencil.",
+        "image_url": "../img/iPad mini (5th generation)"
+      },
+      {
+        "name": "iPad Pro 12.9-inch (4th generation)",
+        "price": "Starting around $999",
+        "information": "The 4th generation iPad Pro with a 12.9-inch Liquid Retina display, released in 2020, features the A12Z Bionic chip, LiDAR scanner, and supports the Magic Keyboard and Apple Pencil (2nd generation).",
+        "image_url": "../img/iPad Pro 12.9-inch (4th generation)"
+      }
+    ]
+  
